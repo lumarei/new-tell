@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Patchfinder.cpp
+  Redirection.cpp
+  Unreal.cpp
+  Hooks.cpp
+  Tellurium.vcxproj -> C:\Users\ryuzaki\Downloads\Tellurium-main\Tellurium-main\x64\Debug\Tellurium.dll
